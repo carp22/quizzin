@@ -14,8 +14,8 @@ export default function Home() {
 
         <div className={styles.container}>
 
-          <h2>Quizzin'</h2>
-          <p>Want to play a game? Let's do it</p>
+          <h2>Quizzin&apos;</h2>
+          <p>Want to play a game? Let&apos;s do it</p>
           <Link href="/quizz">
             <h3>Start Quizz</h3>
           </Link>
