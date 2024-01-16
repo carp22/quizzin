@@ -1,0 +1,49 @@
+
+
+.options {
+    display: flex;
+    gap: 20px;
+    border-bottom: 1px solid #DBDEF0;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.option {
+    padding: 5px 15px 5px 15px;
+    border: 1px solid #4D5B9E;
+    border-radius: 7.5px;
+
+    color: #293264;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.optionHold{
+    background-color: #D6DBF5;
+
+    padding: 5px 15px 5px 15px;
+    border: 1px solid #4D5B9E;
+    border-radius: 7.5px;
+
+    color: #293264;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.option:hover {
+    cursor: pointer;
+    background-color: #D6DBF5;
+}
+
+.question {
+    color: #293264;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 20px;
+}
